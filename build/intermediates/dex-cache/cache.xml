@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ashgarhussain/.android/build-cache/cd01a5c77d655bb4e4c4fb069560cc2479875dcb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ashgarhussain/AndroidStudioProjects/DuniyaMovies/app/build/intermediates/pre-dexed/debug/classes_9ec9ac3930361b74c37feb55dfb1288111d89843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashgarhussain/.android/build-cache/9dc1b7e5ff21f4656535d39e370f7ab9d5c39842/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/ashgarhussain/AndroidStudioProjects/DuniyaMovies/app/build/intermediates/pre-dexed/debug/classes_c928aaeb910d2d93cb48f2ad521eaf23bbe8ee7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashgarhussain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/ashgarhussain/AndroidStudioProjects/DuniyaMovies/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_98969a2243453f307d7db6c25278456788cc2913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashgarhussain/.android/build-cache/15b175b1ba0cf195479aef4c4b600120f6d26c3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/ashgarhussain/AndroidStudioProjects/DuniyaMovies/app/build/intermediates/pre-dexed/debug/classes_c13aa777e66b6188a7afc5706bcb84e8ca011ace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashgarhussain/.android/build-cache/d44fce97a7e7d887c1f217f117c7026ef7066632/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/ashgarhussain/AndroidStudioProjects/DuniyaMovies/app/build/intermediates/pre-dexed/debug/classes_d80d772be8e84d97e50ab8a98d866fd20d2b027c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashgarhussain/.android/build-cache/ccac580b8539912d0949e9384587b286d2f81403/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/ashgarhussain/AndroidStudioProjects/DuniyaMovies/app/build/intermediates/pre-dexed/debug/classes_31a55916900d64a466128ba68bdedeed2e814d57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashgarhussain/.android/build-cache/cdeb1fb0c28840cd89a4307eec20c9478f03b3e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/ashgarhussain/AndroidStudioProjects/DuniyaMovies/app/build/intermediates/pre-dexed/debug/classes_4dd029eb6841b74680eff2f4268a67b44187e1b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashgarhussain/.android/build-cache/f3f0f4468754683d31b1c8a3a1485a9d5b85fef9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/ashgarhussain/AndroidStudioProjects/DuniyaMovies/app/build/intermediates/pre-dexed/debug/classes_c3e6e0c805ad09910dc7cbfa96c40aa7555d8f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashgarhussain/.android/build-cache/cadff4b592db976ec7c4c600913a7e99962d300a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/ashgarhussain/AndroidStudioProjects/DuniyaMovies/app/build/intermediates/pre-dexed/debug/classes_7f9b3d1b73da5a1ebea4047dd2c6b59e7b7a4a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashgarhussain/.android/build-cache/9be3840e9c0a6e3d158ffa3d4dacac5acec85dee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/ashgarhussain/AndroidStudioProjects/DuniyaMovies/app/build/intermediates/pre-dexed/debug/classes_dd9f5a533bf5122b91ef593f0485b273a7457e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashgarhussain/.android/build-cache/ff83c3ce3a6317181e159466a9c542be1d063e5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/ashgarhussain/AndroidStudioProjects/DuniyaMovies/app/build/intermediates/pre-dexed/debug/classes_a9f1f4b07fe0cc589994a07b1204d48421c45dea.jar" />
+    </item>
+
+</items>
